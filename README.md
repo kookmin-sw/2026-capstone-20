@@ -10,9 +10,9 @@
 <br/>
 
 ## 🌐 서비스 공식 링크
-- 🏢 **EBTI Care (브랜드 및 마케팅 사이트):** [🔗 ebticare.com](https://ebticare.com)
-- 💻 **EBTI Hybrid Hub (메인 서비스 플랫폼):** [🔗 hybridhub.kr](https://hybridhub.kr)
-- 🎬 **공식 소개 및 시연 영상:** [프로젝트 영상 보기](#) *(추후 링크 업로드)*
+-  **EBTI Care (브랜드 및 마케팅 사이트):** [🔗 ebticare.com](https://ebticare.com)
+-  **EBTI Hybrid Hub (메인 서비스 플랫폼):** [🔗 hybridhub.kr](https://hybridhub.kr)
+-  **공식 소개 및 시연 영상:** [프로젝트 영상 보기](#) *(추후 링크 업로드)*
 
 ---
 
