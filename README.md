@@ -104,13 +104,13 @@
 
 <table align="center" width="100%">
   <tr>
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/cf04bf9f-f68e-4284-9088-02987d126eba" alt="Hub Home" width="100%"/><br/><b>사용자 홈 대시보드</b></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/d09cf15c-503d-4f0f-aef3-5ddd3b52a292" alt="Hub Diagnostics" width="100%"/><br/><b>진단 및 결과</b></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/9f2fed25-442d-46e4-b64f-963b56ea9854" alt="Hub Graph" width="100%"/><br/><b>목표설정 챗</b></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/eee8e2c1-2b46-4a87-b72b-0132ee944606" alt="Hub Dashboard" width="100%"/><br/><b>협업 대시보드</b></td>
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/0ab98af4-7c29-479d-9e41-edeee0f83e73" alt="Hub Goal" width="100%" /><br/><b>목표 대시보드</b></td>
   </tr>
   <tr>
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/eee8e2c1-2b46-4a87-b72b-0132ee944606" alt="Hub Dashboard" width="100%"/><br/><b>협업 대시보드</b></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/03e7ecf4-d36f-474b-894f-211570f82650" alt="Hub Chat" width="100%"/><br/><b>AI 성장흐름 대시보드</b></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/d23e1ce9-918e-40b3-9056-d604c46b1550" alt="Team Building" width="100%"/><br/><b>결제 페이지</b></td>
     <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/a18650fc-cc03-4686-a102-fc237aad21e8" alt="Team Synergy" width="100%"/><br/><b>관리자 대시보드</b></td>
   </tr>
 </table>
