@@ -138,6 +138,8 @@
 - **Backend Layer:** Spring Boot API 서버 기반 도메인 중심 아키텍처 설계, 보안(Spring Security + JWT) 및 결제 트랜잭션 보장.
 - **AI Agent Layer:** FastAPI 프레임워크 기반 독립 AI 서버. LangChain 파이프라인(진단, 해석, 실행, 팀빌딩, 추적 에이전트).
 - **Data & Storage:** AWS RDS (PostgreSQL 17), Redis 7.0, AWS S3.
+<br/>
+<img width="1300" height="625" alt="Image" src="https://github.com/user-attachments/assets/0d308ca9-6091-47b4-9cef-6c20cece7dfd" />
 
 ### 🛠️ 기술 스택 (Tech Stack)
 
