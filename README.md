@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/🌐  Brand  Site  —  ebticare.com-4B9CD3?style=for-the-badge"/>
   </a>
   &nbsp;
-  <a href="YOUR_YOUTUBE_OR_VIDEO_LINK">
+  <a href="https://youtu.be/Nuwrgz7LOUk">
     <img src="https://img.shields.io/badge/🎬  시연_영상_보기-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 
