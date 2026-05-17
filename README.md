@@ -343,22 +343,68 @@ ebti-platform/
 ## <a id="9-team-intro"></a>👨‍💻 9. 팀 NextSelf 소개
 
 > 국민대학교 컴퓨터공학부 산학협력 캡스톤 디자인을 기반으로  
-> 개발 및 사업화 파이프라인을 구축한 팀입니다.
+> 개발 및 사업화 파이프라인을 구축한 팀 NextSelf입니다.
 
-### 김태환 (팀장 / Backend)
-- 백엔드 아키텍처 설계 총괄
-- ERD 고도화 및 API 문서화
-- Toss 결제 트랜잭션 검증 시스템 구현
 
-### 신윤서 (AI Agent / ML)
-- 다중 진단 알고리즘 구현
-- FastAPI 기반 AI 에이전트 구축
-- PDF 자동 생성 시스템 개발
+<br/>
+<table>
+<tr>
 
-### 이다연 (Frontend / UI·UX)
-- UI/UX 디자인 시스템 구축
-- Next.js 웹 구조 설계
-- 클라이언트 API 연동 및 SEO 최적화 배포
+<td width="33%" valign="top" align="center">
+
+<img src="https://github.com/user-attachments/assets/7bf67a86-8977-471b-9722-4c84d7b59ba1" width="120" height="120" style="border-radius:50%;" />
+
+###  [김태환](https://github.com/KimTaeHwan21)
+**Team Lead · Backend**
+
+<div align="left">
+
+- 백엔드 아키텍처 설계 총괄  
+- ERD 고도화 및 API 문서화  
+- Toss 결제 트랜잭션 검증 시스템 구현  
+
+</div>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img src="https://github.com/user-attachments/assets/bb5cb75f-5f8b-42de-b1f2-c024ffba8dae" width="120" height="120" style="border-radius:50%;" />
+
+###  [신윤서](https://github.com/jogijolup)
+**AI Agent · ML**
+
+<div align="left">
+
+- 다중 진단 알고리즘 구현  
+- FastAPI 기반 AI 에이전트 구축  
+- PDF 자동 생성 시스템 개발  
+
+</div>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+<img  src="https://github.com/user-attachments/assets/d07b12d2-88f3-4dfb-867d-4fdf214e00c9" width="120" height="120" style="border-radius:50%;" />
+
+###  [이다연](https://github.com/Dayeon0820)
+**Frontend · UI·UX**
+
+<div align="left">
+
+- UI/UX 디자인 시스템 구축  
+- Next.js , TS 기반 웹 포른트엔드 구현  
+- API 연동 및 배포  
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+
 <br/>
 
 ## <a id="10-references"></a>📚 10. 참고 자료 및 저작권
