@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Capstone-2026-purple?style=flat-square"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring_Boot-4.07-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/Next.js-14-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/FastAPI-AI_Server-009688?style=flat-square&logo=fastapi&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-17-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
